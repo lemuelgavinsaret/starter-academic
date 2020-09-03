@@ -1,12 +1,15 @@
 ---
+title: Lemuel Gavin Saret
+role: MS Physics student
+avatar_filename: ""
 organizations:
   - name: Gravity Group, National Institute of Physics
     url: https://gravity-nip.github.io/
+  - name: UP Physics Association
+  - name: Christ's Youth in Action - UP Diliman
 superuser: true
 authors:
   - admin
-title: Lemuel Gavin Saret
-role: MS Physics student
 bio: My undegraduate thesis talked about the photon scattering by an Alcubierre
   warp drive. Currently, I'm immersing myself in the physics of gravitational
   waves.
@@ -16,12 +19,10 @@ interests:
 social: []
 education:
   courses:
-    - course: BSc in Physics, 2020
-      year: ""
-      institution: "University of the Philippines, Diliman "
-    - course: MSc in Physics (ongoing)
-      institution: "University of the Philippines, Diliman "
-      year: ""
+    - course: BSc in Physics, 2020 (Research Adviser - Ian Vega)
+      institution: University of the Philippines, Diliman
+    - course: MSc in Physics, Ongoing (Research Adviser - Ian Vega)
+      institution: University of the Philippines, Diliman
 email: ""
 user_groups:
   - ""
