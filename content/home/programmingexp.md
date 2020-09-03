@@ -21,7 +21,7 @@ subtitle = ""
   description = "40%"
   
 [[feature]]
-  icon = "wolframmathematica"
+  icon = "mathematica"
   icon_pack = "custom"
   name = "Mathematica"
   description = "80%"  
