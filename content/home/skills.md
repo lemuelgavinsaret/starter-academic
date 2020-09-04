@@ -31,6 +31,12 @@ subtitle = ""
   icon_pack = "custom"
   name = "Publicity and Design"
   description = "50%"
+  
+ [[feature]]
+  icon = "event"
+  icon_pack = "custom"
+  name = "Event Planning and Organization"
+  description = "60%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
