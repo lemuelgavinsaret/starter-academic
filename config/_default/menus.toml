@@ -12,16 +12,21 @@
   name = "Experience"
   url = "#experience"
   weight = 20
+  
+[[main]]
+  name = "Talks and Presentations"
+  url = "#talks"
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
