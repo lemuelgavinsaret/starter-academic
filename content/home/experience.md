@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University of the Philippines, Diliman"
   date_start = "2018-12-01"
-  date_end = "2019-02-31"
+  date_end = "2019-02-28"
   description = """
   Responsibilities include:
   
