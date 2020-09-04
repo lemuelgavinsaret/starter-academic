@@ -21,6 +21,12 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
+  icon = "autocad"
+  icon_pack = "custom"
+  name = "Autocad"
+  description = "50%"
+  
+[[feature]]
   icon = "communication"
   icon_pack = "custom"
   name = "Communications and Public Relation"
@@ -37,6 +43,12 @@ subtitle = ""
   icon_pack = "custom"
   name = "Event Planning and Organization"
   description = "60%"
+
+ [[feature]]
+  icon = "sports"
+  icon_pack = "custom"
+  name = "Sports"
+  description = "80%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
