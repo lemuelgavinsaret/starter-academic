@@ -42,8 +42,6 @@ date_format = "Jan 2006"
   location = "University of the Philippines, Diliman"
   date_start = "2018-012-01"
   date_end = "2019-02-31"
-  description = """
-  """
 
 [[experience]]
   title = "Vice President for External Affairs"
