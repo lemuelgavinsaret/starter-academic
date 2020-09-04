@@ -65,4 +65,5 @@ date_format = "Jan 2006"
   * Scouting and contacting possible speakers 
   * In charge of overseeing reservation of venues and promotion of event
   * In charge of welcoming and communicating with the speakers and audience
+  """
 +++
