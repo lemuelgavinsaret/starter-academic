@@ -61,4 +61,5 @@ date_format = "Jan 2006"
   * Sending representatives to official meetings of the university
   * Handling sales and marketing of the organization
   """
+  
 +++
