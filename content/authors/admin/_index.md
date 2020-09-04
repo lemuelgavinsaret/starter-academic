@@ -6,7 +6,7 @@ organizations:
   - name: Gravity Group, National Institute of Physics
     url: https://gravity-nip.github.io/
   - name: UP Physics Association
-  - name: Christ's Youth in Action - UP Diliman
+  - name: Christ's Youth in Action
 superuser: true
 authors:
   - admin
@@ -27,4 +27,6 @@ email: ""
 user_groups:
   - ""
 ---
-I am a graduate student in the National Institute of Physics, University of the Philippines, Diliman, currently affiliated with the institute's very own Gravity Group. I studied a lot about the properties of the *Alcubierre warp drive* and its effects to incoming photons. Currently, I'm immersing myself in the physics of *gravitational waves*. I find myself doing all sorts of things in my free time, ranging from more relaxed activities, such as binge watching kdramas and playing board games, to more active ones, such as playing ultimate frisbee and swimming.
+I am a Filipino graduate student in the National Institute of Physics, University of the Philippines, Diliman, currently affiliated with the institute's very own Gravity Group led by Dr. [Ian Vega](https://ianvega.wixsite.com/ianvega). I studied a lot about the properties of the *Alcubierre warp drive,* its effects to its immediate vicinity, and the deflection it causes to incoming photons. Currently, I am immersing myself in the physics of *gravitational waves*. I find myself doing all sorts of things in my free time, ranging from more relaxed activities, such as binge watching kdramas and playing board games, to more active ones, such as playing ultimate frisbee and swimming.
+
+One reason I am organizing this website is because I strongly advocate for more Filipinos to venture into the sciences. I believe that uplifting this sector has a direct positive effect to the other social issues that the Philippines is facing right now. My dream is that this reaches the younger students in our country and hopefully they get inspired to enter field similar to what I am taking right now. My other reason for making this website is my need for an outlet and an anchor. I find myself very anxious from time to time and I need something that would remind me of my small victories and achievements in my field. Hopefully a repository of my past and maybe future projects, such as this website, would help me get anchored back to my reality. With this in mind, I would be continuously updating this website to contain my current projects in physics such as lecture notes, problem sets (if this is even allowable), presentations, publications (hopefully i get one in the future), and the like.
