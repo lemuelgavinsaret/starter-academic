@@ -36,14 +36,6 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Career Talk 2019 Organizing Head"
-  company = "UP Physics Association"
-  company_url = ""
-  location = "University of the Philippines, Diliman"
-  date_start = "2018-12-01"
-  date_end = "2019-02-31"
-
-[[experience]]
   title = "Vice President for External Affairs"
   company = "UP Physics Association"
   company_url = ""
