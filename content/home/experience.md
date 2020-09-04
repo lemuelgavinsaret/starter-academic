@@ -51,5 +51,18 @@ date_format = "Jan 2006"
   * Sending representatives to official meetings of the university
   * Handling sales and marketing of the organization
   """
+ 
+[[experience]]
+  title = "Career Talk 2019 Organizing Head"
+  company = "UP Physics Association"
+  company_url = ""
+  location = "University of the Philippines, Diliman"
+  date_start = "2018-12-01"
+  date_end = "2019-02-31"
+  description = """
+  Responsibilities include:
   
+  * Scouting and contacting possible speakers 
+  * In charge of overseeing reservation of venues and promotion of event
+  * In charge of welcoming and communicating with the speakers and audience
 +++
