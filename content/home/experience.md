@@ -31,9 +31,20 @@ date_format = "Jan 2006"
   * Taking charge of communicating with outside entities, such as Student Councils, organizations, schools, and alumni of the organization.
   * Handling partnerships with other organizations both inside and outside of the university
   * Sending representatives to official meetings of the university
-  * Handling sales and marketing of the organization 
+  * Handling sales and marketing of the organization
+  * Also served as head of the 2018 installment of Physics Career talk during the 2018 Physics Month
   """
-  
+
+[[experience]]
+  title = "Career Talk 2019 Organizing Head"
+  company = "UP Physics Association"
+  company_url = ""
+  location = "University of the Philippines, Diliman"
+  date_start = "2018-012-01"
+  date_end = "2019-02-31"
+  description = """
+  """
+
 [[experience]]
   title = "Vice President for External Affairs"
   company = "UP Physics Association"
