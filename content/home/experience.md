@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Vice President for External Affairs"
+  company = "UP Physics Association"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "University of the Philippines, Diliman"
+  date_start = "2017-07-01"
+  date_end = "2018-05-31"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Taking charge of the organization's college and university recognition
+  * Taking charge of communicating with outside entities, such as Student Councils, organizations, schools, and alumni of the organization.
+  * Handling partnerships with other organizations both inside and outside of the university
+  * Sending representatives to official meetings of the university
+  * Handling sales and marketing of the organization 
   """
-
+  
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Vice President for External Affairs"
+  company = "UP Physics Association"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "University of the Philippines, Diliman"
+  date_start = "2019-07-01"
+  date_end = "2020-05-31"
+  description = """
+  Responsibilities include:
+  
+  * Taking charge of the organization's college and university recognition
+  * Taking charge of communicating with outside entities, such as Student Councils, organizations, schools, and alumni of the organization.
+  * Handling partnerships with other organizations both inside and outside of the university
+  * Sending representatives to official meetings of the university
+  * Handling sales and marketing of the organization
+  """
 +++
