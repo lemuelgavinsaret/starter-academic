@@ -5,8 +5,10 @@ avatar_filename: ""
 organizations:
   - name: Gravity Group, National Institute of Physics
     url: https://gravity-nip.github.io/
-  - name: UP Physics Association
   - name: Christ's Youth in Action
+    url: http://www.christsyouthinaction.com/
+  - name: UP Physics Association
+    url: https://www.facebook.com/upphysics/
 superuser: true
 authors:
   - admin
