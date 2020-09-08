@@ -82,5 +82,6 @@ date_format = "Jan 2006"
   * Building and maintaining relationships
   * Promoting an open and welcoming atmosphere
   """ 
-  
+ 
+text_color_light = "#7fffd4"  
 +++
