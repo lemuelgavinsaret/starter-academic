@@ -14,9 +14,9 @@ collections:
       - {label: "Display name (such as your full name)", name: "title", widget: "string"}
       - {label: "Position or tagline (such as Professor of AI)", name: "role", widget: "string", required: false}
       - label: "Avatar (upload an image named `avatar.jpg/png`)"
-        name: "lem"
+        name: "avatar_filename"
         widget: "image"
-        default: "lem"
+        default: "avatar"
         required: false
         media_library:
           config:
