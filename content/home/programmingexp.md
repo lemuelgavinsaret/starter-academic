@@ -15,16 +15,48 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "custom"
-  name = "Python"
-  description = "40%"
-  
-[[feature]]
   icon = "mathematica"
   icon_pack = "custom"
   name = "Mathematica"
-  description = "80%"  
+  description = "Advanced"  
+
+[[feature]]
+  icon = "latex"
+  icon_pack = "custom"
+  name = "LaTeX"
+  description = "Advanced"  
+  
+[[feature]]
+  icon = "communication"
+  icon_pack = "custom"
+  name = "Communications and Public Relation"
+  description = "Advanced"  
+  
+[[feature]]
+  icon = "event"
+  icon_pack = "custom"
+  name = "Event Planning and Organization"
+  description = "Advanced"  
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "custom"
+  name = "Python"
+  description = "Intermediate"
+  
+[[feature]]
+  icon = "autocad"
+  icon_pack = "custom"
+  name = "Autocad"
+  description = "Intermediate"  
+  
+[[feature]]
+  icon = "design"
+  icon_pack = "custom"
+  name = "Publicity and Desing"
+  description = "Intermediate"  
+  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
