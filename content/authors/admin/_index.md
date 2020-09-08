@@ -11,7 +11,7 @@ authors:
   - admin
 title: Lemuel Gavin Saret
 role: MS Physics student
-lem: lem.jpg
+lem: dsc02927.jpg
 bio: My undegraduate thesis talked about the photon scattering by an Alcubierre
   warp drive. Currently, I'm immersing myself in the physics of gravitational
   waves.
