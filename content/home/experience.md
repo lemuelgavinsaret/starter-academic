@@ -66,4 +66,21 @@ date_format = "Jan 2006"
   * In charge of overseeing reservation of venues and promotion of event
   * In charge of welcoming and communicating with the speakers and audience
   """
+  
+[[experience]]
+  title = "Service Council Member"
+  company = "Christ's Youth in Action"
+  company_url = ""
+  location = "University of the Philippines, Diliman"
+  date_start = "2017-07-01"
+  date_end = "2019-05-31"
+  description = """
+  Responsibilities include:
+  
+  * Vision setting 
+  * Planning and organization of events
+  * Building and maintaining relationships
+  * Promoting an open and welcoming atmosphere
+  """ 
+  
 +++
