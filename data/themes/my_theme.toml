@@ -5,14 +5,14 @@ name = "My Theme"
 light = true
 
 # Primary
-primary = "#ee9142"
+primary = "#11224d"
 
 # Menu
 menu_primary = "#ffffff"
 menu_text = "#2b2b2b"
-menu_text_active = "#ee9142"
-menu_title = "ee9142"
+menu_text_active = "#11224d"
+menu_title = "#11224d"
 
 # Home sections
-home_section_odd = "#11224d"
+home_section_odd = "ee9142"
 home_section_even = "#ffffff"
