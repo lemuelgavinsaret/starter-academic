@@ -16,7 +16,7 @@ collections:
       - label: "Avatar (upload an image named `avatar.jpg/png`)"
         name: "lem"
         widget: "image"
-        default: "avatar"
+        default: "lem"
         required: false
         media_library:
           config:
