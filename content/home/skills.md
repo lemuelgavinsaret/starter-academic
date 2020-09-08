@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Other Skills"
+title = "Other Activities and Interests"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -13,36 +13,6 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
-[[feature]]
-  icon = "latex"
-  icon_pack = "custom"
-  name = "LaTeX"
-  description = "80%"
-  
-[[feature]]
-  icon = "autocad"
-  icon_pack = "custom"
-  name = "Autocad"
-  description = "50%"
-  
-[[feature]]
-  icon = "communication"
-  icon_pack = "custom"
-  name = "Communications and Public Relation"
-  description = "70%"  
-  
-[[feature]]
-  icon = "design"
-  icon_pack = "custom"
-  name = "Publicity and Design"
-  description = "50%"
-  
- [[feature]]
-  icon = "event"
-  icon_pack = "custom"
-  name = "Event Planning and Organization"
-  description = "60%"
 
  [[feature]]
   icon = "sports"
