@@ -33,8 +33,6 @@ author = "admin"
   # image_parallax = true 
 
   # Text color (true=light or false=dark).
-  # text_color_light = true
-  
-  text_color_light = "#7fffd4"  
+  # text_color_light = true 
 
 +++
