@@ -82,4 +82,6 @@ date_format = "Jan 2006"
   * Building and maintaining relationships
   * Promoting an open and welcoming atmosphere
   """  
+  
+css_style = "text_color = "ff0000" "
 +++
