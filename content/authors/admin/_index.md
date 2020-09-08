@@ -1,7 +1,7 @@
 ---
 title: Lemuel Gavin Saret
 role: MS Physics student
-avatar_filename: lem.jpg
+avatar_filename: "lem"
 organizations:
   - name: Gravity Group, National Institute of Physics
     url: https://gravity-nip.github.io/
