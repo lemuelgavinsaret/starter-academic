@@ -18,7 +18,7 @@ subtitle = ""
   icon = "sports"
   icon_pack = "custom"
   name = "Sports"
-  description = "80%"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
