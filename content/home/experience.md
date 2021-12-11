@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company = "Asian MathSci League Inc."
   company_url = ""
   date_start = "2020"
-  date_end = "Present"
+  date_end = ""
   description = """
   Responsibilities include:
   
