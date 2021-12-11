@@ -25,10 +25,10 @@ education:
       institution: University of the Philippines, Diliman
     - course: BSc in Physics, 2020 (Research Adviser - Ian Vega)
       institution: University of the Philippines, Diliman
-email: ""
+email: "lgsaret@up.edu.ph"
 user_groups:
   - ""
 avatar_filename: lem.jpg
 avatar: lem.jpg
 ---
-I am a Filipino graduate student in the National Institute of Physics, University of the Philippines, Diliman, currently affiliated with the institute's very own Gravity Group led by Dr. [Ian Vega](https://ianvega.wixsite.com/ianvega). I studied a lot about the properties of the *Alcubierre warp drive,* its effects to its immediate vicinity, and the deflection it causes to incoming photons. Currently, I am immersing myself in the physics of *gravitational waves*. I find myself doing all sorts of things in my free time, ranging from more relaxed activities, such as binge watching kdramas and playing board games, to more active ones, such as playing ultimate frisbee and swimming.
+I am a graduate student in the National Institute of Physics, University of the Philippines, Diliman, and a member of the Gravity Group led by Dr. [Ian Vega](https://ianvega.wixsite.com/ianvega). As an undergrad, I spent several years studying the properties of the Alcubierre warp drive, its effects to its immediate vicinity, and the deflection it causes to incoming photons. I wrote my undergraduate thesis and several conference proceedings papers based on this work. As a Master's student, I am focused on gravitational wave physics, particularly the dynamics of extreme-mass-ratio inspirals. I find myself doing all sorts of things in my free time, ranging from more relaxed activities, such as binge watching kdramas and playing board games, to more active ones, such as playing ultimate frisbee and swimming.
