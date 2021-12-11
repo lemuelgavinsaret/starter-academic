@@ -21,7 +21,6 @@ date_format = "Jan 2006"
   title = "Coach, International Regions Math League"
   company = "Asian MathSci League Inc."
   company_url = ""
-  location = "n"
   date_start = "2021-05"
   date_end = "2021-06"
   description = """
@@ -36,7 +35,6 @@ date_format = "Jan 2006"
   title = "Mentor"
   company = "Asian MathSci League Inc."
   company_url = ""
-  location = ""
   date_start = "2020"
   date_end = "Present"
   description = """
@@ -45,7 +43,7 @@ date_format = "Jan 2006"
   * Teaching and discussing problems on competitive math topics to elementary and high school students
   * Proctor local and international math competitions 
   """
-
+  
 [[experience]]
   title = "Vice President for External Affairs"
   company = "UP Physics Association"
