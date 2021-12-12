@@ -1,6 +1,6 @@
 ---
 title: Publications
-draft: false
+draft: true
 
 # Optional header image (relative to `static/media/` folder).
 header:
