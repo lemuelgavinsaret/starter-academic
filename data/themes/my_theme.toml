@@ -10,7 +10,7 @@ primary = "#f57d3d"
 # Menu
 menu_primary = "#f57d3d"
 menu_text = "#ffffff"
-menu_text_active = "#f57d3d"
+menu_text_active = "#0f2443"
 menu_title = "#ffffff"
 
 # Home sections
