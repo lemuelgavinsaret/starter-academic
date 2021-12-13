@@ -10,15 +10,15 @@ external_link: ""
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: "uploads/Lemuel-Saret-Physics-221-PS1.pdf"
-url_slides: ""
-url_video: ""
+ links:
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+# url_code: ""
+# url_pdf: "uploads/Lemuel-Saret-Physics-221-PS1.pdf"
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
