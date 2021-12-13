@@ -2,7 +2,7 @@
 name = "My Theme"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
 primary = "#f57d3d"
@@ -14,5 +14,5 @@ menu_text_active = "#2c5777"
 menu_title = "#2c5777"
 
 # Home sections
-home_section_odd = "#e6dfd7"
-home_section_even = "#e6dfd7"
+home_section_odd = "#ffffff"
+home_section_even = "#ffffff"
