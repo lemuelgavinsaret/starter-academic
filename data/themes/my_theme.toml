@@ -11,8 +11,8 @@ primary = "#f57d3d"
 menu_primary = "#f57d3d"
 menu_text = "#ffffff"
 menu_text_active = "#2c5777"
-menu_title = "#2c5777"
+menu_title = "#ffffff"
 
 # Home sections
 home_section_odd = "#ffffff"
-home_section_even = "#e6dfd7"
+home_section_even = "#f6ede3"
