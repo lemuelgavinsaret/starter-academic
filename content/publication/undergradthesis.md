@@ -1,5 +1,5 @@
 ---
-title: "Photon motion by an Alcubierre warp drive"
+title: "Photon scattering by an Alcubierre warp drive space-time"
 authors:
 - Lemuel Gavin G. Saret
 - Michael Francis Ian G. Vega II
