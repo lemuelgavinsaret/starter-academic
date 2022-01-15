@@ -62,3 +62,4 @@ url_pdf: 'uploads/Undergradthesis.pdf'
 # slides: example
 ---
 
+Undergraduate thesis submitted to the National Institute of Physics, College of Science, University of the Philippines, Diliman.
