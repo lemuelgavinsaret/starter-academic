@@ -21,7 +21,7 @@ publication_types: ["7"]
 abstract: We study the scattering of incoming photons by an incoming or outgoing "warp bubble". Specifically, we numerically integrate the null geodesic equations in the Alcubierre warp drive space-time and characterize the resulting changes in the photons. We find that for an observer in a distant reference frame, light rays interacting with the warp drive are deflected and experience net blue-shifts whose magnitudes depend non-trivially on the photon's impact parameter, the warp drive velocity, and the warp bubble width. We find that there is a corresponding increase in angular deflections and overall blue-shift for higher values of the warp velocity, and a corresponding decrease for higher values of the warp bubble width. Meanwhile, images that propagate through the warp drive distortion would experience gravitational lensing that would invert a radial area of the image from the center outward as seen by an observer behind the said warp drive. This lensing effect is caused by the negative energy density matter that supports the warp drive space-time.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Undergraduate thesis submitted to the National Institute of Physics, College of Science, University of the Philippines, Diliman.
 
 tags:
 - Source Themes
@@ -62,4 +62,4 @@ url_pdf: 'uploads/Undergradthesis.pdf'
 # slides: example
 ---
 
-Undergraduate thesis submitted to the National Institute of Physics, College of Science, University of the Philippines, Diliman.
+
