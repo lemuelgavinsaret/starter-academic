@@ -2,7 +2,6 @@
 title: "Photon scattering by an Alcubierre warp drive space-time"
 authors:
 - Lemuel Gavin G. Saret
-- Michael Francis Ian G. Vega II
 #date: "2021-10-05T00:00:00Z"
 doi: ""
 
