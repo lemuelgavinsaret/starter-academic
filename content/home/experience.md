@@ -18,6 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Teaching Associate, National Institute of Physics"
+  company = "University of the Philippines, Diliman"
+  company_url = ""
+  date_start = "2022-08-01"
+  date_end = "2024-06-30"
+  description = """
+  Responsibilities include:
+  
+  * Handled undergraduate Physics classes and delivered lectures about Classical Mechanics, Electromagnetism, Optics, Thermodynamics, Quantum Mechanics, and Special Relativity.
+  * Handled undergraduate laboratory Physics classes and conducted experiments ranging from Mechanics to Electromagnetism.
+  * Conducted review sessions, and made exams and problem sets used for student evaluation.
+  * Organized different events, such as year - end parties and symposiums for a hundred people as part of the faculty’s socials committee.
+  """
+
+title = "Student-researcher, Gravity Group, National Institute of Physics"
+  company = "University of the Philippines, Diliman"
+  company_url = ""
+  date_start = "2018-08-01"
+  date_end = "2024-06-30"
+  description = """
+  Responsibilities include:
+  
+  * Simulated the trajectories and energy shifts of light as it passes through the vicinity of an Alcubierre warp drive with different warp speed and warp bubble width for my undergraduate research.
+  * Simulated binary black hole trajectories and solved (numerically and semi-analytically) for orbital resonances in different black hole systems.
+  * Developed strong scientific writing and presentation skills catered to different audience.
+  * Mentored undergraduate students in their respective research projects.
+  """
+
   title = "Coach, International Regions Math League"
   company = "Asian MathSci League Inc."
   company_url = ""
